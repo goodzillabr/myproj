@@ -1,0 +1,52 @@
+{
+  "BRRouter01": {
+    "host": "BRRouter01.lab.br",
+    "address": "BRRouter01.lab.br",
+    "imports": "Template_Hosts_BR_ping4"
+  },
+  "BRRouter02": {
+    "host": "BRRouter02.lab.br",
+    "address": "BRRouter02.lab.br",
+    "imports": "Template_Hosts_BR_ping4"
+  },
+  "BRRouter03": {
+    "host": "BRRouter03.lab.br",
+    "address": "BRRouter03.lab.br",
+    "imports": "Template_Hosts_BR_ping4"
+	},
+  "BRRouter04": {
+    "host": "BRRouter04.lab.br",
+    "address": "BRRouter04.lab.br",
+    "imports": "Template_Hosts_BR_ping4"
+  },
+  "BRRouter05": {
+    "host": "BRRouter05.lab.br",
+    "address": "BRRouter05.lab.br",
+    "imports": "Template_Hosts_BR_ping4"
+	},
+  "BRRouter06": {
+    "host": "BRRouter06.lab.br",
+    "address": "BRRouter06.lab.br",
+    "imports": "Template_Hosts_BR_ping4" 
+  },
+  "BRRouter07": {
+    "host": "BRRouter07.lab.br",
+    "address": "BRRouter07.lab.br",
+    "imports": "Template_Hosts_BR_ping4" 
+  },
+  "BRRouter08": {
+    "host": "BRRouter08.lab.br",
+    "address": "BRRouter08.lab.br",
+    "imports": "Template_Hosts_BR_ping4" 
+  },
+  "BRRouter09": {
+    "host": "BRRouter09.lab.br",
+    "address": "BRRouter09.lab.br",
+    "imports": "Template_Hosts_BR_ping4" 
+  },
+  "BRRouter10": {
+    "host": "BRRouter10.lab.br",
+    "address": "BRRouter10.lab.br",
+    "imports": "Template_Hosts_BR_ping4" 
+  }
+}
