@@ -47,6 +47,5 @@
   "BRRouter10": {
     "host": "BRRouter10.lab.br",
     "address": "BRRouter10.lab.br",
-    "imports": "Template_Hosts_BR_ping4" 
   }
 }
